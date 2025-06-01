@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.db
+*.toc
+*.pkg
+*.zip
+*.txt
+*.html
+build/
+dist/
